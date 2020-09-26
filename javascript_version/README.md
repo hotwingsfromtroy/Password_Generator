@@ -1,7 +1,0 @@
-A simple javascript version of the password generator to be run from the terminal with node command. Takes in the password length required from the user and spits out a randomly generated password.
-
-Characters in the password are taken from the following:
-Uppercase alphabets ------------ ABCDEFGHIJKLMNOPQRSTUVWXYZ
-Lowercase alphabets ------------ abcdefghijklmnopqrstuvwxyz
-Digits ------------------------- 0123456789
-Special characters ------------- ,.`;'[]\\~!@#$%^&*()_-+={}/|:\"<>?";
