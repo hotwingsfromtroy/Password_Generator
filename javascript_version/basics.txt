@@ -6,3 +6,7 @@ Uppercase alphabets ------------ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Lowercase alphabets ------------ abcdefghijklmnopqrstuvwxyz
 Digits ------------------------- 0123456789
 Special characters ------------- ,.`;'[]\~!@#$%^&*()_-+={}/|:"<>?
+
+
+Input is taken from terminal with the help of the prompt-sync package.
+https://www.codecademy.com/articles/getting-user-input-in-node-js
